@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache and bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+# Downloader outputs (electoral rolls data)
+output_finalroll/
+
+# Logs and temporary files
+*.log
+failed.json
+status.json
+.idea/
+.vscode/
+.DS_Store
